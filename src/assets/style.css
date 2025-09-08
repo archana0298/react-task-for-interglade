@@ -1,0 +1,12 @@
+.container{
+    background-color: rgb(192, 184, 184);
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+.login-btn{
+    margin-top: 10px;
+}
+.fileds{
+    margin-top: 10px;
+}
